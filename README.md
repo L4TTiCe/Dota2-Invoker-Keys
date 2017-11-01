@@ -25,7 +25,7 @@ will be needing this tool to compile the script again.
 Version Changes:   
    
 Invoker Script has been completed   
-Mouse Scroll Script has been completed    <REMOVED in QTE version> 
+Mouse Scroll Script has been completed    [REMOVED in QTE version>] 
 
 
 
